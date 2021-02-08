@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+
+<!DOCTYPE>
+<html>
+  <body>
+    <h1>TheVestra House</h1>
+<h2>Welcome</h2>
 
 You can use the [editor on GitHub](https://github.com/cecilyy/cecilyy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
