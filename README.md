@@ -1,5 +1,5 @@
 
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
   <body>
     <h1>TheVestra House</h1>
